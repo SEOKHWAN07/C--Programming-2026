@@ -1,4 +1,5 @@
 1. 성적 가중평균
+
 #include <stdio.h>
 int main(void)
 {
@@ -12,9 +13,11 @@ int main(void)
 
 	return 0;
 }
+
 결과 = weighted_score = 90.00
 
 2. BMI 계산
+
 #include <stdio.h>
 
 int main(void)
@@ -29,4 +32,5 @@ int main(void)
 
 	return 0;
 }
+
 결과 = bmi = 22.49
